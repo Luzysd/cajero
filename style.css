@@ -1,0 +1,12 @@
+*
+body{
+    background: #B8E28A;
+    background: linear-gradient(to right, #347571,#B8E28A);
+    }
+
+.bg{
+    background-image:url(banco.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+    }
